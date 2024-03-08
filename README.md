@@ -1,6 +1,7 @@
 -2024/03/08-
 
 ![목표 기능](https://github.com/YeonJangL/3DProject02/assets/86962012/f1df3030-c0f0-4897-ab10-478879eb924f)
+
 수업시간에 진행한 내용
 
 플레이어 리스폰 설정 / 장애물 랜덤 생성 / UIManager / 카메라 무빙,, 등
